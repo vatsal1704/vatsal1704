@@ -1,5 +1,8 @@
+![Vatsal Gaur](https://user-images.githubusercontent.com/70809307/127778839-7a1bfd50-929f-481c-9a78-1979c25a6263.png)
+
+
 <h1 align="center">Hi 👋, I'm Vatsal</h1>
-<h3 align="center">A passionate Web developer and a ML Enthusiast from India</h3>
+<h3 align="center">A passionate Web developer and a quick learner always keen to learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal1704&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal1704" /> </p>
 
