@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatsal1704" alt="vatsal1704" /></a> </p>
 
 
-<img align="right" alt="coding" width=400 height="500" src="https://static.vecteezy.com/system/resources/previews/001/340/138/non_2x/man-working-at-home-using-laptop-free-vector.jpg">
+<img align="right" alt="coding" width=400 height="350" src="https://cdn.dribbble.com/users/176039/screenshots/3081690/tna-dribbble-01.gif">
 
 - 🌱 I’m currently learning **Backend Web Development**
 
