@@ -1,7 +1,7 @@
 ![Vatsal Gaur](https://user-images.githubusercontent.com/70809307/127778839-7a1bfd50-929f-481c-9a78-1979c25a6263.png)
 
 
-<h1 align="center">Hi 👋, I'm Vatsal</h1>
+<h1 align="center">Hey there <img align="center" src="https://64.media.tumblr.com/a77fe63f35eafbe14be38765babf1cb2/ec4eb63d77592970-8f/s1280x1920/cb3343c17d8b4e6010ca747520d078d3dba9ac25.gifv" alt="hello" height="50" width="45">, I'm Vatsal</h1>
 <h3 align="center">A passionate Web developer and a quick learner always keen to learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal1704&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal1704" /> </p>
@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatsal1704" alt="vatsal1704" /></a> </p>
 
 
-<img align="right" alt="coding" width=400 height="480" src="https://static.vecteezy.com/system/resources/previews/001/340/138/non_2x/man-working-at-home-using-laptop-free-vector.jpg">
+<img align="right" alt="coding" width=400 height="500" src="https://static.vecteezy.com/system/resources/previews/001/340/138/non_2x/man-working-at-home-using-laptop-free-vector.jpg">
 
 - 🌱 I’m currently learning **Backend Web Development**
 
