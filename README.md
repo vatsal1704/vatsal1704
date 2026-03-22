@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Generative AI Developer | AI Builder | Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Products;LLM+Powered+Apps;Data+Driven+Systems;Always+Shipping+🚀&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Products;LLM+Powered+Apps;Data+Driven+Systems;DATA+ANALYSIS+🚀&center=true&width=500&height=45">
 </p>
 
 ---
