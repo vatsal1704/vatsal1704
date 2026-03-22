@@ -4,10 +4,6 @@
 <h1 align="center">Hey 👋, I'm Vatsal</h1>
 <h3 align="center">🚀 Generative AI Developer | Data Science  | Web Developer</h3> 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750363-7f2c0f1b-1c5c-4fcb-8b3a-6f6e0b3b8f6f.gif" width="400"/>
-</p>
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749695-6e5c6c55-3e25-4c5b-bb59-6cde5dfe7a22.gif" width="400"/>
