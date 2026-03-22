@@ -2,7 +2,7 @@
 <!-- 🔥 Animated Header -->
 
 <h1 align="center">Hey 👋, I'm Vatsal</h1>
-<h3 align="center">🚀 Generative AI Developer | Data Science  | Web Developer</h3>
+<h3 align="center">🚀 Generative AI Developer | Data Science  | Web Developer</h3> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Products;LLM+Powered+Apps;Data+Driven+Systems;DATA+ANALYSIS+🚀&center=true&width=500&height=45">
