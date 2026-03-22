@@ -99,14 +99,12 @@
 ## 📊 Contribution Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsal1704here&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=vatsal1704here&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsal1704&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsal1704here&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsal1704&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 <!-- ⚡ Edge -->
 
 ## ⚡ What Makes Me Different
