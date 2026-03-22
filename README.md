@@ -96,16 +96,21 @@
 
 ---
 
-<!-- 🔥 Streak -->
-
-## 🔥 Contribution Streak
+## 📊 Contribution Dashboard
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal1704&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsal1704here&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal1704here&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsal1704here&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsal1704here&theme=tokyo-night&hide_border=true"/>
+</p>
+
 
 <!-- ⚡ Edge -->
 
