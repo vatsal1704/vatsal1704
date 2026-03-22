@@ -25,7 +25,7 @@
 - 🧠 Strong problem-solving mindset with experience in hackathons and collaborative projects  
 
 - 🌐 **Portfolio:** [Visit My Portfolio](https://portfolio-website-puce-nu.vercel.app/)  
-- 📄 **Resume:** [Download Resume](https://raw.githubusercontent.com/vatsal1704/vatsal1704/main/Vatsal%20Gaur%20Resume.pdf)
+<!-- - 📄 **Resume:** [Download Resume](https://raw.githubusercontent.com/vatsal1704/vatsal1704/main/Vatsal%20Gaur%20Resume.pdf) -->
 
 ---
 
