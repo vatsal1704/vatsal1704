@@ -1,15 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vatsal+%F0%9F%91%8B;Full+Stack+Developer;Building+cool+things+on+the+web;Always+learning+new+tech" />
-</p>
+
 <!-- 🔥 Animated Header -->
 
 <h1 align="center">Hey 👋, I'm Vatsal</h1>
 <h3 align="center">🚀 Generative AI Developer | Data Science  | Web Developer</h3> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Products;LLM+Powered+Apps;Data+Driven+Systems;DATA+ANALYSIS+🚀&center=true&width=500&height=45">
-</p>  
-
+  <img src="https://user-images.githubusercontent.com/74038190/212750363-7f2c0f1b-1c5c-4fcb-8b3a-6f6e0b3b8f6f.gif" width="400"/>
+</p>
 ---
 
 <p align="center">
