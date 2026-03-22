@@ -6,11 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vatsal+%F0%9F%91%8B;Full+Stack+Developer;Building+cool+things+on+the+web;Always+learning+new+tech" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-6e5c6c55-3e25-4c5b-bb59-6cde5dfe7a22.gif" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Deriving+Insights+from+Data;Business+Intelligence+%26+Data+Analytics;Generative+AI+%7C+LLMs+%7C+AI+Applications;Full+Stack+Web+Development;Building+Scalable+and+Impactful+Solutions" />
 </p>
 
  
