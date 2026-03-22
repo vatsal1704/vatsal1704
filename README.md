@@ -15,13 +15,17 @@
  
 <!-- 🧠 About -->
 
-## 🧠 About Me
+## 🚀 About Me
 
-🚀 I build **real-world AI applications** powered by LLMs and data.
-⚡ Focused on turning ideas into **functional, deployable products**.
-🧩 Exploring how **Generative AI can simplify complex workflows**.
+- 🎓 B.Tech Computer Science graduate with a strong focus on AI, Machine Learning & Data Science  
+- 🤖 Hands-on experience with Generative AI, NLP, RAG, and transformer-based architectures  
+- 📊 Skilled in Python, SQL, EDA, statistical analysis, and predictive modeling  
+- 🚀 Built real-world AI projects like multi-document chatbot, ATS resume analyzer & ML prediction systems  
+- ☁️ Familiar with web development and cloud technologies (AWS, Streamlit deployments)  
+- 🧠 Strong problem-solving mindset with experience in hackathons and collaborative projects  
 
-> I don’t just learn AI — I **ship it**. 
+- 🌐 **Portfolio:** [Visit My Portfolio](https://portfolio-website-puce-nu.vercel.app/)  
+- 📄 **Resume:** [Download Resume](https://raw.githubusercontent.com/vatsal1704/vatsal1704/main/Vatsal%20Gaur%20Resume.pdf)
 
 ---
 
