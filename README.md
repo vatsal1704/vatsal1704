@@ -33,7 +33,7 @@
 * ⚡ Rapid Prototyping with AI Tools
 
 <!-- 👀 Visitors -->
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=vatsal1704&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
  
