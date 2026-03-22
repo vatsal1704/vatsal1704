@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 Generative AI Applications (Gemini / GPT)<br>📊 AI Data Analysis & Insight Generation<br>🌐 AI-powered Web Apps<br>🧩 Prompt Engineering & Automation<br>⚡ Rapid Prototyping with AI Tools
+🤖 Generative AI Applications <br>📊 AI Data Analysis & Insight Generation<br>🌐 AI-powered Web Apps<br>🧩 Prompt Engineering & Automation<br>⚡ Rapid Prototyping with AI Tools
 
  
 
@@ -11,7 +11,8 @@
   <a href="https://github.com/vatsal1704"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
   <a href="https://linkedin.com/in/www.linkedin.com/in/vatsalgaur"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:vatsalgaur2001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 
