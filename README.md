@@ -18,7 +18,7 @@
 ⚡ Focused on turning ideas into **functional, deployable products**.
 🧩 Exploring how **Generative AI can simplify complex workflows**.
 
-> I don’t just learn AI — I **ship it**.
+> I don’t just learn AI — I **ship it**. 
 
 ---
 
