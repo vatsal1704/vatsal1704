@@ -105,18 +105,17 @@
 
 ## 📊 Contribution Dashboard
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vatsal1704&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsal1704&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 <!-- ⚡ Edge -->
 
 ## ⚡ What Makes Me Different
 
-* 🚀 I build and ship fast
 * 🧠 Strong focus on **practical AI applications**
 * ⚙️ Combine AI + Web + Data seamlessly
 * 📦 Turn ideas into **real products**
