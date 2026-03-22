@@ -1,41 +1,4 @@
-## 🛠️ Tech Stack
 
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,c" />
-
----
-
-### ⚛️ Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react" />
-
----
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
----
-
-### 📊 Data Science
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
-
----
-
-### 🤖 Generative AI
-
-<img src="https://img.shields.io/badge/Generative%20AI-0A0A0A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-GPT%20%7C%20Gemini-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Workflows-1E90FF?style=for-the-badge"/>
-
-</div>
 <!-- 🔥 Animated Header -->
 
 <h1 align="center">Hey 👋, I'm Vatsal</h1>
@@ -85,6 +48,51 @@
 
 
 # 💻 Tech Stack:
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,c" />
+
+---
+
+### ⚛️ Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge"/>
+
+---
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+---
+
+### 📊 Data Science & Analysis
+
+<img src="https://img.shields.io/badge/Data%20Analysis-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
+
+---
+
+### 🤖 Generative AI
+
+<img src="https://img.shields.io/badge/Generative%20AI-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-GPT%20%7C%20Gemini-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Workflows-1E90FF?style=for-the-badge"/>
+
+</div>
 
 👉 Focus: **Building with AI, not just using it**
 
