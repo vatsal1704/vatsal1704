@@ -9,6 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Deriving+Insights+from+Data;Business+Intelligence+%26+Data+Analytics;Generative+AI+%7C+LLMs+%7C+AI+Applications;Full+Stack+Web+Development;Building+Scalable+and+Impactful+Solutions" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749726-0b3d7f6b-9f6d-4b6e-9d7e-0e6f3c59a6a2.gif" width="380"/>
+</p>
  
 <!-- 🧠 About -->
 
