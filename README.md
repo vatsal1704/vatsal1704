@@ -10,8 +10,8 @@
 </p>
 
 
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212749726-0b3d7f6b-9f6d-4b6e-9d7e-0e6f3c59a6a2.gif" width="480"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750363-7f2c0f1b-1c5c-4fcb-8b3a-6f6e0b3b8f6f.gif" width="380"/>
 </p>
  
 <!-- 🧠 About -->
