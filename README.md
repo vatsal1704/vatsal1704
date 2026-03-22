@@ -1,4 +1,35 @@
-🤖 Generative AI Applications <br>📊 AI Data Analysis & Insight Generation<br>🌐 AI-powered Web Apps<br>🧩 Prompt Engineering & Automation<br>⚡ Rapid Prototyping with AI Tools
+<!-- 🔥 Animated Header -->
+
+<h1 align="center">Hey 👋, I'm Vatsal</h1>
+<h3 align="center">🚀 Generative AI Developer | AI Builder | Data Science Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Products;LLM+Powered+Apps;Data+Driven+Systems;Always+Shipping+🚀&center=true&width=500&height=45">
+</p>
+
+---
+
+<!-- 🧠 About -->
+
+## 🧠 About Me
+
+🚀 I build **real-world AI applications** powered by LLMs and data.
+⚡ Focused on turning ideas into **functional, deployable products**.
+🧩 Exploring how **Generative AI can simplify complex workflows**.
+
+> I don’t just learn AI — I **ship it**.
+
+---
+
+<!-- 🚀 Work -->
+
+## 🚀 What I Work On
+
+* 🤖 Generative AI Applications (Gemini / GPT)
+* 📊 AI Data Analysis & Insight Generation
+* 🌐 AI-powered Web Apps
+* 🧩 Prompt Engineering & Automation
+* ⚡ Rapid Prototyping with AI Tools
 
  
 <!-- 🤝 Connect -->
@@ -44,38 +75,6 @@
 
 
 
-<!-- 🔥 Animated Header -->
-
-<h1 align="center">Hey 👋, I'm Vatsal</h1>
-<h3 align="center">🚀 Generative AI Developer | AI Builder | Data Science Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Products;LLM+Powered+Apps;Data+Driven+Systems;Always+Shipping+🚀&center=true&width=500&height=45">
-</p>
-
----
-
-<!-- 🧠 About -->
-
-## 🧠 About Me
-
-🚀 I build **real-world AI applications** powered by LLMs and data.
-⚡ Focused on turning ideas into **functional, deployable products**.
-🧩 Exploring how **Generative AI can simplify complex workflows**.
-
-> I don’t just learn AI — I **ship it**.
-
----
-
-<!-- 🚀 Work -->
-
-## 🚀 What I Work On
-
-* 🤖 Generative AI Applications (Gemini / GPT)
-* 📊 AI Data Analysis & Insight Generation
-* 🌐 AI-powered Web Apps
-* 🧩 Prompt Engineering & Automation
-* ⚡ Rapid Prototyping with AI Tools
 
 ---
 
