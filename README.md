@@ -1,7 +1,6 @@
 🤖 Generative AI Applications <br>📊 AI Data Analysis & Insight Generation<br>🌐 AI-powered Web Apps<br>🧩 Prompt Engineering & Automation<br>⚡ Rapid Prototyping with AI Tools
 
  
-
 <!-- 🤝 Connect -->
 
 ## 🤝 Let's Connect
@@ -13,6 +12,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
 
 
 # 💻 Tech Stack:
@@ -169,5 +169,7 @@ y LLM responses
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vatsal1704&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
+
 ⭐ *If you like my work, consider starring repositories — it helps a lot!*
 
