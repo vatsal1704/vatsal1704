@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vatsal+%F0%9F%91%8B;Full+Stack+Developer;Building+cool+things+on+the+web;Always+learning+new+tech" />
 </p>
 <!-- 🔥 Animated Header -->
 
