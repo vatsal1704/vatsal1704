@@ -32,6 +32,10 @@
 * 🧩 Prompt Engineering & Automation
 * ⚡ Rapid Prototyping with AI Tools
 
+<!-- 👀 Visitors -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vatsal1704&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
  
 <!-- 🤝 Connect -->
 
@@ -124,10 +128,7 @@
 * Improving LLM workflows
 * Building more real-world AI apps
 
-<!-- 👀 Visitors -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vatsal1704&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
 
 
 ⭐ *If you like my work, consider starring repositories — it helps a lot!*
