@@ -1,4 +1,3 @@
-
 <!-- 🔥 Animated Header -->
 
 <h1 align="center">Hey 👋, I'm Vatsal</h1>
@@ -106,11 +105,11 @@
 ## 📊 Contribution Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsal1704&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsal1704&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsal1704&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsal1704&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 <!-- ⚡ Edge -->
 
@@ -138,4 +137,3 @@
 
 
 ⭐ *If you like my work, consider starring repositories — it helps a lot!*
-
